@@ -52,7 +52,7 @@ fig_barras = px.bar(
     labels={"Ano": "Ano", "USD_BRL": "Cotação Média (R$)"},
     color="USD_BRL",
     color_continuous_scale="Blues",
-    text="USD_BRL",  
+    text="USD_BRL",
 )
 
 fig_barras.update_traces(texttemplate="R$ %{text:.2f}", textposition="outside")
@@ -72,7 +72,7 @@ fig_treemap = px.treemap(
     title="Cotação Média USD/BRL por Ano e Trimestre",
     color="USD_BRL",
     color_continuous_scale="RdBu_r",
-    hover_data={"USD_BRL": ":.2f"},  
+    hover_data={"USD_BRL": ":.2f"},
 )
 
 fig_treemap.update_traces(textinfo="label+value")  
