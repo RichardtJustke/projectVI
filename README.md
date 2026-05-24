@@ -38,7 +38,7 @@ década. A abordagem de linha é ideal para séries temporais contínuas, permit
 identificar tendências, picos e vales ao longo do tempo — como a forte
 desvalorização do real observada entre 2014 e 2016.
 
-![Gráfico de Linhas](newplot.png)
+![Gráfico de Linhas](newplot(2).png)
 
 ---
 
@@ -52,7 +52,7 @@ ano de forma discreta. Permite uma comparação visual direta do comportamento
 central da moeda por período, evidenciando o crescimento consistente da cotação
 ao longo da década.
 
-![Gráfico de Barras](newplot(1).png)
+![Gráfico de Barras](newplot.png)
 
 ---
 
@@ -67,4 +67,4 @@ cotação média do período, evidenciando visualmente a distribuição e a rele
 de cada subconjunto de dados. O gráfico é interativo: clicando em um ano é
 possível explorar seus trimestres individualmente.
 
-![Treemap](newplot(2).png)
+![Treemap](newplot(1).png)
