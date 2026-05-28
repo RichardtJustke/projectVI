@@ -7,7 +7,7 @@
 
 **Link do dataset utilizado:**
 https://github.com/RichardtJustke/projectVI/blob/main/USD_BRL_hist.csv
-**Link do vídeo de apresentação:** [video.mp4](video.mp4)
+**Link do vídeo de apresentação:** https://youtu.be/-lkE5C9QA7Y
 
 ---
 
