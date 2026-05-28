@@ -26,8 +26,8 @@ fig_linha.update_traces(line_color="#1565C0", line_width=1.5)
 fig_linha.update_xaxes(
     rangeslider_visible=True,
     rangeselector=dict(buttons=[
-        dict(count=1, label="1a", step="year", stepmode="backward"),
-        dict(count=3, label="3a", step="year", stepmode="backward"),
+        dict(count=1, label="1a", step="year", stepmode="backward"),#ultimo ano 
+        dict(count=3, label="3a", step="year", stepmode="backward"),#3 ultimos
         dict(step="all", label="Tudo")
     ])
 )

@@ -6,8 +6,7 @@
 **Curso:** Ciência da Computação
 
 **Link do dataset utilizado:**
-https://github.com/mwaskom/seaborn-data/blob/master/flights.csv
-
+https://github.com/RichardtJustke/projectVI/blob/main/USD_BRL_hist.csv
 **Link do vídeo de apresentação:** [video.mp4](video.mp4)
 
 ---
